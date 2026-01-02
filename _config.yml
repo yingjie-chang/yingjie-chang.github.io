@@ -25,11 +25,11 @@ author:
   # Biographic information
   avatar           : "profile_yj.chang.png"
   name             : "Yingjie Chang"
-  pronouns         : # example: "she/her"  
+  pronouns         : he
   bio              : "Lecture"
   location         : "Xi'an, China"
   employer         : "Chang'an University"
-  uri              : http://yingjie-chang.github.io
+  uri              : https://yingjie-chang.github.io
   email            : "yj.chang@chd.edu.cn" 
 
   # Academic websites
