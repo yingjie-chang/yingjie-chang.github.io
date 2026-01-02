@@ -23,19 +23,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile_yj.chang.png"
+  name             : "Yingjie Chang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lecture"
+  location         : "Xi'an, China"
+  employer         : "Chang'an University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "yj.chang@chd.edu.cn" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://js.chd.edu.cn/nyydqgcxy/cyj1/list.htm"
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.de/citations?user=3YbZ688AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
