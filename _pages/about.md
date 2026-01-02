@@ -33,23 +33,23 @@ Selected Papers about Gas-liquid Two-phase Flow in Large-scale Pipelines
 
 [1] Prediction of the severe slugging period in gas-liquid two-phase pipeline-riser systems using an artificial neural network[J].<br>
 **Yingjie Chang**, Qiang Xu✉, Bo Huang, Xuemei Zhang, Haiyang Yu, Hao Chen, Dominique Thévenin, Liejin Guo✉.<br>
-*Energy*, 2025, 331, 137026.<br>
+***Energy***, 2025, 331, 137026.<br>
 
 [2]  High pressure experiments and data-driven flow regime identification in gas-liquid two-phase pipeline-riser systems[J].<br>
 **Yingjie Chang**, Bo Huang, Qiang Xu, Yiyan Liu✉, Hao Chen, Nailiang Li, Dominique Thévenin, Liejin Guo✉. <br>
-*Ocean Engineering*, 2025, 340(3), 122402.<br>
+***Ocean Engineering***, 2025, 340(3), 122402.<br>
 
 [3]  Effect of the operation pressure on severe slugging in a gas-liquid two-phase flow in the pipeline-riser system[J].<br>
 **Yingjie Chang**, Bo Huang, Qiang Xu✉, Xiangyuan Zhao, Quanhong Wu, Hao Chen, Dominique Thévenin, Liejin Guo✉. <br>
-*Ocean Engineering*, 2025, 317, 120071.<br>
+***Ocean Engineering***, 2025, 317, 120071.<br>
 
 [4]  Experimental and modeling investigation of zero net liquid flow in hilly terrain pipeline[J]. <br>
 Bo Huang, Qiang Xu✉, **Yingjie Chang**, Yeqi Cao, Haiyang Yu, Yuwen Li, Liejin Guo✉.<br>
-*Petroleum Science*, 2025, 22, 5, 2183-2202.<br>
+***Petroleum Science***, 2025, 22, 5, 2183-2202.<br>
 
 [5]  A single-parameter method for liquid flow measurement in spiral annular flow using radial pressure difference[J]. <br>
 Xuemei Zhang, Qiang Xu✉, Xiaojun Ma, Haocun Wang, **Yingjie Chang**, Lulu Li, Bo Zhang, Liejin Guo✉. <br>
-*Measurement*, 2025, 256, 118260.<br>
+***Measurement***, 2025, 256, 118260.<br>
 
 [6]  Numerical simulation of transient vortex and acoustic vibration characteristics caused by leaking holes in oil pipelines[C]. <br>
 **Yingjie Chang**, Xuebo Zheng. <br>
@@ -59,15 +59,15 @@ Xuemei Zhang, Qiang Xu✉, Xiaojun Ma, Haocun Wang, **Yingjie Chang**, Lulu Li, 
 
 [1]  Experiments and predictions for severe slugging of gas-liquid two-phase flows in a long-distance pipeline-riser system[J]. <br>
 **Yingjie Chang**, Qiang Xu✉, Suifeng Zou, Xiangyuan Zhao, Quanhong Wu, Yechun Wang, Dominique Thévenin, Liejin Guo✉. <br>
-*Ocean Engineering*, 2024, 301, 117636.<br>
+***Ocean Engineering***, 2024, 301, 117636.<br>
 
 [2]  Study on eliminating severe slugging by manual and automatic choking in long pipeline-riser system[J]. <br>
  Xiangyuan Zhao, Qiang Xu✉, Jiqiang Fu, **Yingjie Chang**, Quanhong Wu, Liejin Guo✉.<br>
- *Chemical Engineering Science*, 2024, 292, 119978.<br>
+ ***Chemical Engineering Science***, 2024, 292, 119978.<br>
 
 [3]  Investigation on intermittent flow characteristics in horizontal pipe by visualization measurement method[J]. <br>
 Bo Huang, Qiang Xu✉, Yeqi Cao, Haiyang Yu, Yuwen Li, **Yingjie Chang**, Liejin Guo✉.<br>
-*Experimental Thermal and Fluid Science*, 2024, 111329.<br>
+***Experimental Thermal and Fluid Science***, 2024, 111329.<br>
 
 [4] Experimental Study on Gas-Liquid Two-Phase Stratified Flow at High Pressure in a Horizontal Pipe[J]. <br>
 Yubo Wang, Yanan Yu, Zhigang Liu, **Yingjie Chang**, Xiangyuan Zhao, Qiming Wang✉. <br>
@@ -77,41 +77,41 @@ Yubo Wang, Yanan Yu, Zhigang Liu, **Yingjie Chang**, Xiangyuan Zhao, Qiming Wang
 
 [1]  An improved void fraction prediction model for gas-liquid two-phase flows in pipeline-riser systems[J]. <br>
 **Yingjie Chang**, Qiang Xu✉, Suifeng Zou, Xiangyuan Zhao, Quanhong Wu, Yechun Wang, Dominique Thévenin, Liejin Guo✉. <br>
-*Chemical Engineering Science*, 2023, 278, 118919.<br>
+***Chemical Engineering Science***, 2023, 278, 118919.<br>
 
 [2]   Effect of high pressure on severe slugging and multiphase flow pattern transition in a long pipeline-riser system[J]. <br>
 Xiangyuan Zhao, Qiang Xu✉, Quanhong Wu, **Yingjie Chang**, Yeqi Cao, Suifeng Zou, Liejin Guo✉.<br>
-*Experimental Thermal and Fluid Science*, 2023, 148, 110976.<br>
+***Experimental Thermal and Fluid Science***, 2023, 148, 110976.<br>
 
 [3]  A comparison of gas-liquid two-phase flow behaviors between two pipeline-riser systems with different geometric<br> parameters and different operating pressures: From view of flow pattern identification[J]. <br>
 Quanhong Wu, Suifeng Zou, Qiang Xu, **Yingjie Chang**, Xiangyuan Zhao, Tian Yao, Liejin Guo✉. <br>
-*Ocean Engineering*, 2023, 288. 116179.<br>
+***Ocean Engineering***, 2023, 288. 116179.<br>
 
 **2022:**  
 
 [1]  Experimental study of the hydraulic jump phenomenon induced by the downstream riser structure in a pipeline–riser system[J]. <br>
 **Yingjie Chang**, Qiang Xu✉, Quanhong Wu, Xiangyuan Zhao, Bo Huang, Yechun Wang, Liejin Guo✉.<br>
-*Chemical Engineering Science*, 2022, 256, 117687.<br>
+***Chemical Engineering Science***, 2022, 256, 117687.<br>
 
 [2]  长距离集输-立管中严重段塞流频率特性研究[J].<br>
 **常英杰**,赵向远,吴全红,刘威志,黄博,徐强,郭烈锦✉.<br>
-*工程热物理学报*.2022,43:98-103.<br>
+***工程热物理学报***.2022,43:98-103.<br>
 
 [3]   Experimental and Theoretical Study of Interface Characteristics of Gas–Liquid Stratified Flow in Horizontal Pipe at High Pressure [J]. <br>
 Yubo Wang, **Yingjie Chang**, Zhigang Liu, Xiangyuan Zhao, Liejin Guo✉.<br>
-*Flow Turbulence and Combustion*, 2020, 105, 1249–1275.<br>
+***Flow Turbulence and Combustion***, 2020, 105, 1249–1275.<br>
 
 [4]   A quantification of penetration length of steam jet condensation in turbulent water flow in a vertical pipe[J]. <br>
 Qiang Xu, Wensheng Li, **Yingjie Chang**, Haiyang Yu, Liejin Guo✉. <br>
-*International Journal of Heat and Mass Transfer*, 2020, 146:118818.<br>
+***International Journal of Heat and Mass Transfer***, 2020, 146:118818.<br>
 
 [5]  Optimization of differential pressure signal acquisition for recognition of gas-liquid two-phase flow patterns in pipeline-riser system[J]. <br>
 Weizhi Liu, Qiang Xu, Suifeng Zou, **Yingjie Chang**, Liejin Guo✉. <br>
-*Chemical Engineering Science*, 2020, 229, 116043.<br>
+***Chemical Engineering Science***, 2020, 229, 116043.<br>
 
 [6]  Experimental study of gas-liquid two-phase wavy stratified flow in horizontal pipe at high pressure[J]. <br>
 Yubo Wang, Zhigang Liu, **Yingjie Chang**, Xiangyuan Zhao, Liejin Guo✉. <br>
-*International Journal of Heat and Mass Transfer*, 2019, 143:118537.<br>
+***International Journal of Heat and Mass Transfer***, 2019, 143:118537.<br>
 
 [7]  空气-水两相管流中节流法控制不稳定流型压差波动特性实验研究[J].<br>
 吴全红,赵向远,**常英杰**,徐强,郭烈锦✉.<br>
@@ -122,7 +122,7 @@ Selected Papers about Bubbles
 ======
 [1]  Hydrodynamics and shape reconstruction of single rising air bubbles in water using high-speed tomographic particle tracking velocimetry and 3D geometric reconstruction[J]. <br>
 **Yingjie Chang**, Conrad Müller✉, Péter Kováts, Liejin Guo, Katharina Zähringer.<br>
-*Experiments in Fluids*, 2024, 65, 6.<br>
+***Experiments in Fluids***, 2024, 65, 6.<br>
 
 [2]  Flow around bubbles: 4D measurement concept with high-speed tomographic system[C]. <br>
 Conrad Müller, **Yingjie Chang**, Peter Kováts, Katharina Zähringer, Dominique Thévenin.<br>
@@ -139,10 +139,10 @@ Selected Papers about Defect Identification
 
 Hosting Fundings
 ------
-[1] 2025.07-2027.07, funded by China Postdoctoral Science Foundation General Program(2025M770580);<br>
-[2] 2025.01-2026.12, funded by Shaanxi Provincial Natural Science Foundation Youth Project(No.2025JC-YBQN-671);<br>
-[3] 2026.01-2027.12, funded by Shaanxi Provincial Postdoctoral Research Project;<br>
-[4] 2024.01-2025.12, funded by Fundamental Research Projects of the Central Universities(No. 300102384104).<br>
+[1] 2025.07-2027.07, China Postdoctoral Science Foundation General Program(2025M770580);<br>
+[2] 2025.01-2026.12, Shaanxi Provincial Natural Science Foundation Youth Project(No.2025JC-YBQN-671);<br>
+[3] 2026.01-2027.12, Shaanxi Provincial Postdoctoral Research Project;<br>
+[4] 2024.01-2025.12, Fundamental Research Projects of the Central Universities(No. 300102384104).<br>
 
 
 Educations
