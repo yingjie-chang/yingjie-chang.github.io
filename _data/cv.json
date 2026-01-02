@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yingjie Chang",
+    "email": "yj.chang@chd.edu.cn",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://js.chd.edu.cn/nyydqgcxy/cyj1/list.htm",
+    "summary": "Currently employed at Chang'an University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Xi'an",
+      "countryCode": "China",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.de/citations?user=3YbZ688AAAAJ&hl=en"
       },
       {
         "network": "ORCID",
@@ -26,43 +26,43 @@
       {
         "network": "GitHub",
         "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "url": "https://yingjie-chang.github.io"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "School of Energy and Power Engineering",
+      "area": "Ph.D in Xi'an University",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2017.03",
+      "endDate": "2023.12",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "School of Energy and Power Engineering",
+      "area": "M.S. in Xi'an University",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2015.09",
+      "endDate": "2017.03",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "School of Energy and Power Engineering",
+      "area": "B.S. in Xi'an University",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2011.09",
+      "endDate": "2015.06",
       "gpa": null,
       "courses": []
     }
   ],
   "skills": [],
-  "languages": [],
-  "interests": [],
+  "languages": [Chinese, English],
+  "interests": [Basketball, Reading],
   "references": [],
   "publications": [
     {
