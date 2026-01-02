@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 I am currently an Lecture at **Chang'an University**.<br>
-I got my Doctoral degrees from the School of Energy and Power Engineering at **Xi'an Jiaotong University** in 2023, with supervised by **Prof. Liejin Guo**. From July 2021 to August 2022, I received funding from the China Scholarship Council (CSC) to pursue joint training at the **University of Magdeburg** in Germany, with supervised by **Prof. Dominique Thevenin**. I joined the School of Energy and Electrical Engineering at Chang'an University in December 2023.<br>
+I got my Doctoral degrees from the School of Energy and Power Engineering at **Xi'an Jiaotong University** in 2023, with supervised by **Prof. Liejin Guo**. From July 2021 to August 2022, I received funding from the China Scholarship Council (CSC) to pursue joint training at the **University of Magdeburg** in Germany, with supervised by **Prof. Dominique Thevenin**. I joined the School of Energy and Electrical Engineering at Chang'an University in December 2023.<br>  
+
 I has published over 30 papers in journals such as *Experiments in Fluids*, *Energy*, *Chemical Engineering Science*, and *Ocean Engineering*, and have granted 5 invention patents.<br>
 I hold projects funded by the China Postdoctoral Science Foundation, the Shaanxi Provincial Youth Fund, the Shaanxi Provincial Postdoctoral Research Fund, and the Fundamental Research Funds for the Central Universities. I serves on the editorial boards of *Scientific Reports* and *Contemporary Chemical Engineering Research*, is a guest editor for a special issue of *Processes*, and is the associate editor of *International Journal of Oil, Gas and Coal Engineering*.<br>
 
@@ -17,13 +18,13 @@ If you have interest to cooperation, please feel free to email me (yj.chang@chd.
 
 News
 ======
-2025.08.04  Paper about "High-pressure data-driven regime identification" was accepted by Ocean Engineering. 
-2025.06.06  Paper about "ANN-SS period prediction" was accepted by Energy.  
+2025.08.04  Paper about "High-pressure data-driven regime identification" was accepted by Ocean Engineering. <br>
+2025.06.06  Paper about "ANN-SS period prediction" was accepted by Energy.  <br>
 
   
 **2024**  
 
-2024.10.20  Paper about "High-pressure experiment study in pipeline-riser system" was accepted by Ocean Engineering.  
+2024.10.20  Paper about "High-pressure experiment study in pipeline-riser system" was accepted by Ocean Engineering.  <br>
 
 
 Selected Papers about Gas-liquid Two-phase Flow in Large-scale Pipelines
