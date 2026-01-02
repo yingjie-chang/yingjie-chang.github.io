@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-
+Face your defect, share it to others, and change it.
 
 1st shooting time_show your defect to others
 ======
