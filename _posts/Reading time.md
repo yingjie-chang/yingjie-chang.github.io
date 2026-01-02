@@ -8,7 +8,7 @@ tags:
   - category2
 ---
 
-
+2026: 10 new books
 
 2026.01.02 《The Sound and the Fury》
 ======
