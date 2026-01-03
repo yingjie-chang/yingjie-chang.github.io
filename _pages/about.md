@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Lecture at **[Chang'an University](https://www.chd.edu.cn/)**.<br>
-I got my Doctoral degrees from the School of Energy and Power Engineering at **[Xi'an Jiaotong University](https://www.xjtu.edu.cn/)** in 2023, with supervised by **[Prof. Liejin Guo](https://gr.xjtu.edu.cn/en/web/lj-guo)**. From July 2021 to August 2022, I received funding from the China Scholarship Council (CSC) to pursue joint training at the **University of Magdeburg** in Germany, with supervised by **[Prof. Dominique Thevenin](https://www.lss.ovgu.de/lss/en/Team/Professors/Th%C3%A9venin.html)**. I joined the School of Energy and Electrical Engineering at Chang'an University in December 2023.<br>  
+I am currently an Lecture at *[Chang'an University](https://www.chd.edu.cn/)*.<br>
+I got my Doctoral degrees from the School of Energy and Power Engineering at *[Xi'an Jiaotong University](https://www.xjtu.edu.cn/)* in 2023, with supervised by **[Prof. Liejin Guo](https://gr.xjtu.edu.cn/en/web/lj-guo)**. From July 2021 to August 2022, I received funding from the China Scholarship Council (CSC) to pursue joint training at the *[University of Magdeburg](https://www.ovgu.de/)* in Germany, with supervised by **[Prof. Dominique Thevenin](https://www.lss.ovgu.de/lss/en/Team/Professors/Th%C3%A9venin.html)**. I joined the School of Energy and Electrical Engineering at Chang'an University in December 2023.<br>  
 
 I has published over 30 papers in journals such as *Experiments in Fluids*, *Energy*, *Chemical Engineering Science*, and *Ocean Engineering*, and have granted 5 invention patents.<br>
 I am holding 4 projects, and I serves on the editorial boards of 《*Scientific Reports*》 and 《*Contemporary Chemical Engineering Research*》, is a guest editor for a special issue of 《*Processes*》, and is the associate editor of 《*International Journal of Oil, Gas and Coal Engineering*》.<br>
@@ -27,8 +27,7 @@ News
 2024.10.20  Paper about "[High-pressure experiment study](https://doi.org/10.1016/j.oceaneng.2024.120071)" was accepted by *Ocean Engineering*.  <br>
 
 
-Selected Papers about Gas-liquid Two-phase Flow in Large-scale Pipelines
-======
+***Selected Papers about Gas-liquid Two-phase Flow in Large-scale Pipelines***
 **2025:**  
 
 [1] [Prediction of the severe slugging period in gas-liquid two-phase pipeline-riser systems using an artificial neural network](https://doi.org/10.1016/j.energy.2025.137026)[J].<br>
@@ -118,7 +117,7 @@ Yubo Wang, Zhigang Liu, **Yingjie Chang**, Xiangyuan Zhao, Liejin Guo✉. <br>
 *海洋工程装备与技术*,2019,6(4):7.<br>
 
 
-Selected Papers about Bubbles 
+***Selected Papers about Bubbles***
 ======
 [1]  [Hydrodynamics and shape reconstruction of single rising air bubbles in water using high-speed tomographic particle tracking velocimetry and 3D geometric reconstruction](https://doi.org/10.1007/s00348-023-03746-0)[J]. <br>
 **Yingjie Chang**, Conrad Müller✉, Péter Kováts, Liejin Guo, Katharina Zähringer.<br>
@@ -129,7 +128,7 @@ Conrad Müller, **Yingjie Chang**, Peter Kováts, Katharina Zähringer, Dominiqu
 Budapest, Hungary: 18th International Conference on Fluid Flow Technologies, 2022<br>
 
 
-Selected Papers about Defect Identification
+***Selected Papers about Defect Identification***
 ======
 
 基于DBBR-YOLO的光伏电池表面缺陷检测[J].<br>
