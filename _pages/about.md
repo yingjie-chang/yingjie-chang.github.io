@@ -7,39 +7,39 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Lecture at **Chang'an University**.<br>
-I got my Doctoral degrees from the School of Energy and Power Engineering at **Xi'an Jiaotong University** in 2023, with supervised by **Prof. Liejin Guo**. From July 2021 to August 2022, I received funding from the China Scholarship Council (CSC) to pursue joint training at the **University of Magdeburg** in Germany, with supervised by **Prof. Dominique Thevenin**. I joined the School of Energy and Electrical Engineering at Chang'an University in December 2023.<br>  
+I am currently an Lecture at **[Chang'an University](https://www.chd.edu.cn/)**.<br>
+I got my Doctoral degrees from the School of Energy and Power Engineering at **[Xi'an Jiaotong University](https://www.xjtu.edu.cn/)** in 2023, with supervised by **[Prof. Liejin Guo](https://gr.xjtu.edu.cn/en/web/lj-guo)**. From July 2021 to August 2022, I received funding from the China Scholarship Council (CSC) to pursue joint training at the **University of Magdeburg** in Germany, with supervised by **[Prof. Dominique Thevenin](https://www.lss.ovgu.de/lss/en/Team/Professors/Th%C3%A9venin.html)**. I joined the School of Energy and Electrical Engineering at Chang'an University in December 2023.<br>  
 
 I has published over 30 papers in journals such as *Experiments in Fluids*, *Energy*, *Chemical Engineering Science*, and *Ocean Engineering*, and have granted 5 invention patents.<br>
-I hold projects funded by "the China Postdoctoral Science Foundation", "the Shaanxi Provincial Youth Fund", the "Shaanxi Provincial Postdoctoral Research Fund", and "the Fundamental Research Funds for the Central Universities". I serves on the editorial boards of 《*Scientific Reports*》 and 《*Contemporary Chemical Engineering Research*》, is a guest editor for a special issue of 《*Processes*》, and is the associate editor of 《*International Journal of Oil, Gas and Coal Engineering*》.<br>
+I am holding 4 projects, and I serves on the editorial boards of 《*Scientific Reports*》 and 《*Contemporary Chemical Engineering Research*》, is a guest editor for a special issue of 《*Processes*》, and is the associate editor of 《*International Journal of Oil, Gas and Coal Engineering*》.<br>
 
-My current research focuses on **gas-liquid two-phase/multiphase flow**, primarily including: **intelligent monitoring and safety assurance of oil and gas transportation flows**, **industrial applications of artificial intelligence**, **two-phase/multiphase flow measurement and numerical simulation**, and **bubble dynamics**.<br>
-If you have interest to cooperation, please feel free to email me (yj.chang@chd.edu.cn)<br>
+My current research focuses on **gas-liquid two-phase/multiphase flow**, primarily including: *intelligent monitoring and safety assurance of oil and gas transportation flows*, *industrial applications of artificial intelligence*, *two-phase/multiphase flow measurement and numerical simulation*, and *bubble dynamics*.<br>
+If you have interest to cooperation, please feel free to email me at [yj.chang@chd.edu.cn](yj.chang@chd.edu.cn)<br>
 
 News
 ======
-2025.08.04  Paper "High-pressure data-driven regime identification" was accepted by *Ocean Engineering*. <br>
-2025.06.06  Paper "ANN-SS period" was accepted by *Energy*.  <br>
+2025.08.04  Paper "[High-pressure data-driven regime identification](https://doi.org/10.1016/j.oceaneng.2025.122402)" was accepted by *Ocean Engineering*. <br>
+2025.06.06  Paper "[ANN-SS period](https://doi.org/10.1016/j.energy.2025.137026)" was accepted by *Energy*.  <br>
 
   
 **2024**  
 
-2024.10.20  Paper about "High-pressure experiment study in pipeline-riser system" was accepted by *Ocean Engineering*.  <br>
+2024.10.20  Paper about "[High-pressure experiment study](https://doi.org/10.1016/j.oceaneng.2024.120071)" was accepted by *Ocean Engineering*.  <br>
 
 
 Selected Papers about Gas-liquid Two-phase Flow in Large-scale Pipelines
 ======
 **2025:**  
 
-[1] Prediction of the severe slugging period in gas-liquid two-phase pipeline-riser systems using an artificial neural network[J].<br>
+[1] [Prediction of the severe slugging period in gas-liquid two-phase pipeline-riser systems using an artificial neural network](https://doi.org/10.1016/j.energy.2025.137026)[J].<br>
 **Yingjie Chang**, Qiang Xu✉, Bo Huang, Xuemei Zhang, Haiyang Yu, Hao Chen, Dominique Thévenin, Liejin Guo✉.<br>
 ***Energy***, 2025, 331, 137026.<br>
 
-[2]  High pressure experiments and data-driven flow regime identification in gas-liquid two-phase pipeline-riser systems[J].<br>
+[2]  [High pressure experiments and data-driven flow regime identification in gas-liquid two-phase pipeline-riser systems](https://doi.org/10.1016/j.oceaneng.2025.122402)[J].<br>
 **Yingjie Chang**, Bo Huang, Qiang Xu, Yiyan Liu✉, Hao Chen, Nailiang Li, Dominique Thévenin, Liejin Guo✉. <br>
 ***Ocean Engineering***, 2025, 340(3), 122402.<br>
 
-[3]  Effect of the operation pressure on severe slugging in a gas-liquid two-phase flow in the pipeline-riser system[J].<br>
+[3]  [Effect of the operation pressure on severe slugging in a gas-liquid two-phase flow in the pipeline-riser system](https://doi.org/10.1016/j.oceaneng.2024.120071)[J].<br>
 **Yingjie Chang**, Bo Huang, Qiang Xu✉, Xiangyuan Zhao, Quanhong Wu, Hao Chen, Dominique Thévenin, Liejin Guo✉. <br>
 ***Ocean Engineering***, 2025, 317, 120071.<br>
 
@@ -57,7 +57,7 @@ Xuemei Zhang, Qiang Xu✉, Xiaojun Ma, Haocun Wang, **Yingjie Chang**, Lulu Li, 
 
 **2024:** <br>
 
-[1]  Experiments and predictions for severe slugging of gas-liquid two-phase flows in a long-distance pipeline-riser system[J]. <br>
+[1]  [Experiments and predictions for severe slugging of gas-liquid two-phase flows in a long-distance pipeline-riser system](https://doi.org/10.1016/j.oceaneng.2024.117636)[J]. <br>
 **Yingjie Chang**, Qiang Xu✉, Suifeng Zou, Xiangyuan Zhao, Quanhong Wu, Yechun Wang, Dominique Thévenin, Liejin Guo✉. <br>
 ***Ocean Engineering***, 2024, 301, 117636.<br>
 
@@ -75,7 +75,7 @@ Yubo Wang, Yanan Yu, Zhigang Liu, **Yingjie Chang**, Xiangyuan Zhao, Qiming Wang
 
 **2023:**  
 
-[1]  An improved void fraction prediction model for gas-liquid two-phase flows in pipeline-riser systems[J]. <br>
+[1]  [An improved void fraction prediction model for gas-liquid two-phase flows in pipeline-riser systems](https://doi.org/10.1016/j.ces.2023.118919)[J]. <br>
 **Yingjie Chang**, Qiang Xu✉, Suifeng Zou, Xiangyuan Zhao, Quanhong Wu, Yechun Wang, Dominique Thévenin, Liejin Guo✉. <br>
 ***Chemical Engineering Science***, 2023, 278, 118919.<br>
 
@@ -89,11 +89,11 @@ Quanhong Wu, Suifeng Zou, Qiang Xu, **Yingjie Chang**, Xiangyuan Zhao, Tian Yao,
 
 **2022:**  
 
-[1]  Experimental study of the hydraulic jump phenomenon induced by the downstream riser structure in a pipeline–riser system[J]. <br>
+[1]  [Experimental study of the hydraulic jump phenomenon induced by the downstream riser structure in a pipeline–riser system](https://doi.org/10.1016/j.ces.2022.117687)[J]. <br>
 **Yingjie Chang**, Qiang Xu✉, Quanhong Wu, Xiangyuan Zhao, Bo Huang, Yechun Wang, Liejin Guo✉.<br>
 ***Chemical Engineering Science***, 2022, 256, 117687.<br>
 
-[2]  长距离集输-立管中严重段塞流频率特性研究[J].<br>
+[2]  [长距离集输-立管中严重段塞流频率特性研究](https://jeth.magtechjournal.com/CN/Y2022/V43/I1/98)[J].<br>
 **常英杰**,赵向远,吴全红,刘威志,黄博,徐强,郭烈锦✉.<br>
 ***工程热物理学报***.2022,43:98-103.<br>
 
@@ -120,7 +120,7 @@ Yubo Wang, Zhigang Liu, **Yingjie Chang**, Xiangyuan Zhao, Liejin Guo✉. <br>
 
 Selected Papers about Bubbles 
 ======
-[1]  Hydrodynamics and shape reconstruction of single rising air bubbles in water using high-speed tomographic particle tracking velocimetry and 3D geometric reconstruction[J]. <br>
+[1]  [Hydrodynamics and shape reconstruction of single rising air bubbles in water using high-speed tomographic particle tracking velocimetry and 3D geometric reconstruction](https://doi.org/10.1007/s00348-023-03746-0)[J]. <br>
 **Yingjie Chang**, Conrad Müller✉, Péter Kováts, Liejin Guo, Katharina Zähringer.<br>
 ***Experiments in Fluids***, 2024, 65, 6.<br>
 
